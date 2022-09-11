@@ -4,13 +4,13 @@ Word Scrambler is a game which requires players to rearrange a set of scrambled 
 
 ## Spesification
  ### Ruby version
-  Ruby 3.0.2
+  `Ruby 3.0.2`
 
  ### Rails version
-  Rails 7.0.3.1
+  `Rails 7.0.3.1`
 
  ### Database for Active Record
-  sqlite3 1.4
+  `sqlite3 1.4`
 
 ## How to run
 1. you can use `git clone https://github.com/markprima/word-scrambler.git` in your terminal to take this repository;
