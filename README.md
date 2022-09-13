@@ -16,4 +16,4 @@ Word Scrambler is a game which requires players to rearrange a set of scrambled 
 1. you can use `git clone https://github.com/markprima/word-scrambler.git` in your terminal to take this repository;
 2. open the app with text editor, and run `rails db:migrate` and `rails db:seed`;
 3. then, you can run the app in your local with `rails server` or `rails s`;
-4. now, you can use the application in your local.
+4. now, you can use the application in your local and run `localhost:3000` in your browser.
